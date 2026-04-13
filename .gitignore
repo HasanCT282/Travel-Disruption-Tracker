@@ -1,0 +1,4 @@
+dbmsenv/
+__pycache__/
+*.pyc
+.env
